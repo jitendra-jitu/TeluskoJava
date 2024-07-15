@@ -1,0 +1,51 @@
+WAR - WEB ARCHIEVE
+
+
+NOTE
+----
+
+using embed-tomcat of older versions will work proper than using new versions.
+
+
+e.g.
+----
+<dependency>
+   <groupId>org.apache.tomcat.embed</groupId>
+   <artifactId>tomcat-embed-core</artifactId>
+   <version>8.5.96</version>
+</dependency>
+
+
+
+VIEW TECHNOLOGIES
+-----------------
+
+1 Thymeleaf
+2 FreeMarker
+3 Groovy Markup
+4 Script Views
+5 JSP & JSTL
+
+
+
+Plain Old Java Object(POJO)
+
+MVC
+---
+
+Controller	->	Servlet	
+
+View		->	View Technology(JSP)
+
+Model		->	Model Class (POJO)
+
+
+
+
+NOTE
+----
+
+-->	Tomcat deals only with the Servlets , internally JSP is converted into the Servlet form before the processing  
+
+
+
