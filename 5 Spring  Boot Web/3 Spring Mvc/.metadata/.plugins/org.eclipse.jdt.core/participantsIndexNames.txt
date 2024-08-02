@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+C:\Users\gudel\OneDrive\Documents\3 Spring Mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3515832843.index
+\SpringMvcProject\src\main\resources
+C:\Users\gudel\OneDrive\Documents\3 Spring Mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3613496250.index
+\SpringWebProject\src\main\resources
+C:\Users\gudel\OneDrive\Documents\3 Spring Mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1304999626.index
+\nj\appClientModule
+C:\Users\gudel\OneDrive\Documents\3 Spring Mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1006099637.index
+\SpringWebProject\src\main\java
+C:\Users\gudel\OneDrive\Documents\3 Spring Mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\926826423.index
+\SpringWebProject\src\main\java
