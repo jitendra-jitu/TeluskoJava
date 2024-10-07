@@ -1,0 +1,86 @@
+
+Object-Relational Mapping
+--------------------------
+
+
+Frameworks of ORM
+-----------------
+1 Hibernate
+2 Top-Link
+3 Eclipse-link
+
+
+
+
+
+
+
+
+
+
+
+
+What is Spring Data JPA?
+------------------------
+
+1 JPA is a Java specification(Jakarta Persistence API) and it manages relational data in Java applications.
+
+2 To access and persist data between Java object(Plain Old Java object)/ class and relational database, we can use JPA.
+
+3 Upon  Object-Relation Mapping (ORM), it follows the mechanisms.
+
+4 It has the runtime EntityManager API and it is responsible for processing queries and transactions on the Java objects against the database.
+
+5 The main highlight is it uses JPQL (Java Persistent Query Language) which is platform-independent.
+
+
+
+JPA mainly covers persistence in terms of 
+
+* The Java Persistence API
+* Object-Relational metadata
+* Moreover under the persistence package API is defined.
+* We cannot say that JPA is a framework, but It defines a concept and it can be implemented by any framework.
+
+
+Advantages of Using JPA:
+-----------------------
+1 No need to write DDL/DML queries, instead we can map by using XML/annotations.
+2 JPQL is used and since it is platform-independent, we no need to depend on any native SQL table. Complex expressions and filtering expressions are all handled via JPQL only.
+3 Entity can be partially stored in one database like MySQL and the rest can be in Graph database Management System.
+4 Dynamic generation of queries is possible.
+5 Integration with Spring framework is easier with a custom namespace.
+
+
+
+OPTIONAL OBJECT 
+--------------
+
+--> Optional is a container object which may or may not contain a non-null value.
+
+--> You must import java.util package to use this class. If a value is present, isPresent() will return true and get() will return the value.
+
+
+NOTE ->  IT BASICALLY HANDLES NULL VALUES
+
+
+1  Every Java Programmer is familiar with NullPointerException.
+2  It can crash your code. And it is very hard to avoid it without using too many null checks.
+3  So, to overcome this, Java 8 has introduced a new class Optional in java.util package.
+4  It can help in writing a neat code without using too many null checks
+
+
+
+
+QUERYDSL
+--------
+
+1 In Spring Boot, QueryDSL can be defined as the Query Domain Specific Language, and it is a framework that can provide a type-safe way to construct queries in Java.
+
+2  It can allow the developers can write queries fluently and concisely of string-based queries such as SQL injection vulnerabilities and lack of the compile time safe QueryDSL generates the query classes and entity classes based on the database schema.
+
+
+
+
+
+

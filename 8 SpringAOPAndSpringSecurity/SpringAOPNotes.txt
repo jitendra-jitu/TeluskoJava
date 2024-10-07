@@ -1,0 +1,23 @@
+AOP(ASPECT ORIENTED PROGRAMMING)
+--------------------------------
+
+Understanding AOP Concepts
+---------------------------
+
+
+1 Aspect :
+ The key unit of modularity in AOP, representing a concern that cuts across multiple classes. For example, an aspect for logging can be applied across various methods in different classes.
+
+2 Advice :
+ This is the action taken by an aspect at a particular join point. There are five types of advice:
+  --> Before : Executed before the method call.
+  --> After : Executed after the method call, regardless of its outcome.
+  --> AfterReturning : Executed after the method returns a result, but not if an exception occurs.
+  --> Around : Surrounds the method execution, allowing you to control the method execution and its result.
+  --> AfterThrowing : Executed if the method throws an exception.
+
+
+  --> Join Point : A specific point in the execution of a program, such as method execution or exception handling, where an aspect can be applied.
+  --> Pointcut : A predicate that matches join points. A pointcut expression specifies where an advice should be applied.
+  --> Weaving : The process of linking aspects with the target object. Weaving can occur at compile-time, load-time, or runtime. 
+	Spring AOP performs runtime weaving using proxy-based mechanisms.

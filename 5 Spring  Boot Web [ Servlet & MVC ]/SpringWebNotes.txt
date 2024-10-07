@@ -1,0 +1,103 @@
+WAR - WEB ARCHIEVE
+
+
+NOTE
+----
+
+using embed-tomcat of older versions will work proper than using new versions.
+
+
+e.g.
+----
+<dependency>
+   <groupId>org.apache.tomcat.embed</groupId>
+   <artifactId>tomcat-embed-core</artifactId>
+   <version>8.5.96</version>
+</dependency>
+
+
+
+VIEW TECHNOLOGIES
+-----------------
+
+1 Thymeleaf
+2 FreeMarker
+3 Groovy Markup
+4 Script Views
+5 JSP & JSTL
+
+
+
+Plain Old Java Object(POJO)
+
+MVC
+---
+
+Controller	->	Servlet	
+
+View		->	View Technology(JSP)
+
+Model		->	Model Class (POJO)
+
+
+
+
+NOTE
+----
+
+-->	Tomcat deals only with the Servlets , internally JSP is converted into the Servlet form before the processing  
+
+
+
+-->	Spring Boot doesn't support JSP page , we use external jasper to convert JSP to Servlet.
+
+
+
+
+FrontEnd
+--------
+
+Tip: The for attribute of <label> must be equal to the id attribute of the related element to bind them together. A label can also be bound to an element by placing the element inside the <label> element. 
+
+
+
+JSP Standard library:
+
+--> 	The JavaServer Pages Standard Tag Library (JSTL) is a collection of useful tags that encapsulate core functionality commonly found in JSP applications1.
+
+
+
+
+
+_________________________________________________
+
+     >    Model, ModelMap, ModelAndView in Spring MVC    >
+_________________________________________________
+
+
+Spring is one of the most used Java-based frameworks for creating enterprise-grade applications in Java. In that Spring MVC was one of the popular projects under the Spring family of Java projects. In this article, we will explore how Model, ModelMap, and ModelAndView work in Spring MVC.
+
+Spring MVC follows the Model-View-Controller (MVC) pattern to break down the application into three individual components called MVC. Model, ModelMap, and ModelAndView create a flow of data from the Model and View in the MVC pattern.
+
+
+Model:
+-----
+
+1  Model is an Interface in the spring core package under com.springframework.ui is used for transferring the data or attributes from our business logic to the rendering view pages.
+
+2  Its primary use is to add attributes to the model and can be simply viewed and accessed similar to the java.util.Map Interface.
+
+
+ModelMap:
+---------
+1 Model is a class in the spring core package under com.springframework.ui and is used for transferring the data or attributes from our business logic to the rendering view pages. 
+
+2 It is an extension of the Model interface, as it also implements the java.util.Map to provide a Map-like structure to access the attributed with the Key-Value pair fashion.
+
+
+
+ModelAndView:
+-------------
+1 we have the model object and return the view name separately in the methods but, the ModelAndView class does it slightly differently.
+
+2 In this, we will combine the view and data in a single object either with the help of the constructor or set by the setViewName() method of this class. So that with ModelAndView we                                                                                                                       return the view and model in a single object.

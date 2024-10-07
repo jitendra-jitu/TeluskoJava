@@ -1,0 +1,28 @@
+
+
+
+/////
+/////////
+///////////////////
+REST API Introduction
+----------------------
+
+==> TRANSFER OF STATE ( CURRENT CONDITION RESOURCE )
+
+1 REpresentational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating web services.
+
+2 REST API is a way of accessing web services in a simple and flexible way without having any processing.
+
+3 REST technology is generally preferred to the more robust Simple Object Access Protocol (SOAP) technology because REST uses less bandwidth, simple and flexible making it more suitable for internet usage.
+
+4 It’s used to fetch or give some information from a web service. All communication done via REST API uses only HTTP request.
+
+
+
+
+
+
+//////////////
+
+1 Jackson  converts Java Ojects into Json Objects 
+2 Spring uses Jackson Library default for this conversion purpose.

@@ -1,0 +1,83 @@
+Here is a link to a .js file on another server. Here we use both the integrity and crossorigin attributes:
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+crossorigin="anonymous">
+</script>
+
+
+
+CrossOrigin - Definition and Usage
+----------------------------------
+
+1 The crossorigin attribute sets the mode of the request to an HTTP CORS Request.
+
+2 Web pages often make requests to load resources on other servers. Here is where CORS comes in.
+
+3 A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+
+4 CORS is used to manage cross-origin requests.
+
+5 CORS stands for Cross-Origin Resource Sharing, and is a mechanism that allows resources on a web page to be requested from another domain outside their own domain. It defines a way of how a browser and server can interact to determine whether it is safe to allow the cross-origin request.
+
+6 CORS allows servers to specify who can access the assets on the server, among many other things.
+
+
+Syntax:
+<script crossorigin="anonymous|use-credentials">
+
+
+Tip: The opposite of cross-origin requests is same-origin requests. This means that a web page can only interact with other documents that are also on the same server. This policy enforces that documents that interact with each other must have the same origin (domain).
+
+
+
+
+Integrity - Definition and Usage
+--------------------------------
+
+
+1 The integrity attribute allows a browser to check the fetched script to ensure that the code is never loaded if the source has been manipulated.
+
+2 Subresource Integrity (SRI) is a W3C specification that allows web developers to ensure that resources hosted on third-party servers have not been altered. Use of SRI is recommended!
+
+3 When using SRI, the webpage holds the hash and the server holds the file (the .js file in this case). The browser downloads the file, then checks it, to make sure that it is a match with the hash in the integrity attribute. If it matches, the file is used, and if not, the file is blocked.
+
+
+
+Syntax:
+-------
+<script integrity="filehash">
+
+
+
+
+How to Transfer Data in Spring using DTO?
+
+-----------------------------------------
+
+1 In Spring Framework, Data Transfer Object (DTO) is an object that carries data between processes.
+
+2 When you’re working with a remote interface, each call is expensive. As a result, you need to reduce the number of calls.
+
+3 The solution is to create a Data Transfer Object that can hold all the data for the call.
+
+4 It needs to be serializable to go across the connection.
+
+
+
+
+
+REST API Introduction
+----------------------
+
+1 REpresentational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating web services.
+
+2 REST API is a way of accessing web services in a simple and flexible way without having any processing.
+
+3 REST technology is generally preferred to the more robust Simple Object Access Protocol (SOAP) technology because REST uses less bandwidth, simple and flexible making it more suitable for internet usage.
+
+4 It’s used to fetch or give some information from a web service. All communication done via REST API uses only HTTP request.
+
+
+

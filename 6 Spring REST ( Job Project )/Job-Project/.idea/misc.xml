@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringBootWeb1/SpringBootWeb1/pom.xml" />
+        <option value="$PROJECT_DIR$/4 RequestMapping/SpringBoot1/pom.xml" />
+        <option value="$PROJECT_DIR$/2 CreatingAJspPage/SpringBoot1/pom.xml" />
+        <option value="$PROJECT_DIR$/1 IntroductionToMvc/SpringBoot1/pom.xml" />
+        <option value="$PROJECT_DIR$/3 CreatingAController/SpringBoot1/pom.xml" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-junit.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-apache-oro.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-jmf.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-imageio.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-apache-bcel.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-antlr.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-apache-regexp.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-javamail.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-swing.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-netrexx.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-apache-bsf.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-junit4.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-testutil.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-apache-resolver.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-parent.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-xz.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-commons-net.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-jakartamail.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-commons-logging.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-jdepend.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-jsch.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-launcher.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-apache-xalan2.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-junitlauncher.pom" />
+        <option value="$PROJECT_DIR$/eclipse-jee-2024-06-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.14.v20230922-1200/lib/ant-apache-log4j.pom" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

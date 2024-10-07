@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44ee622f-43ab-4700-bb03-af34275d6bbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../7 SpringDataJPA/SpringDataRest/4 Connecting With React/SpringDataRest/src/main/java/com/jitu/SpringDataRest/JobController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7 SpringDataJPA/SpringDataRest/4 Connecting With React/SpringDataRest/src/main/java/com/jitu/SpringDataRest/SpringDataRestCustomization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7 SpringDataJPA/SpringDataRest/4 Connecting With React/SpringDataRest/src/main/java/com/jitu/SpringDataRest/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_NavinReddyJavaCore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_NavinReddyJavaCore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../4 SpringJdbc_LiveCode/6 SpringJdbcPostgreSql/SpringJdbc/src/main/java/com/example/SpringJdbc/SpringJdbcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../4 SpringJdbc_LiveCode/6 SpringJdbcPostgreSql/SpringJdbc/src/main/java/com/example/SpringJdbc/SpringJdbcApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/5 Spring  Boot Web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/5.2 Spring MVC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/Spring Servlet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/src/main/java/com/telusko/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.1 CreatingAServletProject 1/src/test/java/com/telusko/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/src/main/java/com/telusko/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/src/main/java/com/telusko/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.2 RunningTomcat/src/test/java/com/telusko/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/src/main/java/com/telusko/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/src/main/java/com/telusko/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.3 ServletMapping/src/test/java/com/telusko/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/src/main/java/com/telusko/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/src/main/java/com/telusko/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/1 Spring Servlet/0.4 RespondingToTheClient/src/test/java/com/telusko/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/.idea/SpringBoot1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/src/main/java/com/jitu/SpringBoot1/SpringBoot1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.1 CreatingASpringBootWebProject/SpringBoot1/src/test/java/com/jitu/SpringBoot1/SpringBoot1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.10 SettingPrefixAndSufix/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.11 ModelAndView/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/src/main/java/com/jitu/SpringBootWeb1/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.12 NeedForModelAttribute/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/src/main/java/com/jitu/SpringBootWeb1/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.13 UsingModelAttribute/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/2 CreatingAJspPage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/SpringBoot1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/src/main/java/com/jitu/SpringBoot1/SpringBoot1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.2 CreatingAJspPage/SpringBoot1/src/test/java/com/jitu/SpringBoot1/SpringBoot1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/2 CreatingAJspPage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/SpringBoot1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/src/main/java/com/jitu/SpringBoot1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/src/main/java/com/jitu/SpringBoot1/SpringBoot1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.3 CreatingAController/SpringBoot1/src/test/java/com/jitu/SpringBoot1/SpringBoot1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.4 RequestMapping/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/src/main/webapp/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.5 SendingDataToController/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/src/main/webapp/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.6 AcceptingDataTheServletWay/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/src/main/webapp/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.7 DisplayDataOnResultPage/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/src/main/webapp/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.8 RequestParam/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/src/main/java/com/jitu/SpringBootWeb1/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/src/main/java/com/jitu/SpringBootWeb1/SpringBootWeb1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/1.9 ModelObject/src/test/java/com/jitu/SpringBootWeb1/SpringBootWeb1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/4 RequestMapping-output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/IntroductionToMVC-Sc/IMG-20240715-WA0008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/IntroductionToMVC-Sc/IMG-20240715-WA0009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/IntroductionToMVC-Sc/IMG-20240715-WA0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/IntroductionToMVC-Sc/IMG-20240715-WA0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/2 Spring Boot MVC/SpringWebNotes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.bak_0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.history/a4/309ca847c050001f15dbbadb714d255c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.history/d7/90982348c050001f15dbbadb714d255c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.projects/hi/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.projects/hi/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.projects/hi/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.root/9.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.core/.launches/TestRunner.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.core/.launches/mavenrun-0239f418-fe87-4f74-915f-c71249b4d846.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.core/.launches/mavenrun-2d0efd7e-b84c-4341-a3fd-52dc61c783a1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.core/.launches/mavenrun-31b74173-b881-440e-8500-bc1eb1635a5d.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.core/.launches/mavenrun-3f3d0056-98b3-4d58-b9d7-1c9632ef0f13.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.core/.launches/mavenrun-4e7a27b8-4497-419a-9a64-84f9850ee5c5.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.core/.launches/mavenrun-6b9c9f97-3111-4052-a3f5-41b21cd1a0a2.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/281472197.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/61683349.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1006099637.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1304999626.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3515832843.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3613496250.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/926826423.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.jst.ws.jaxrs.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2024/8/31/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2024/8/31/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SpringMvcProject/2024/8/31/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SpringMvcProject/2024/8/31/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SpringWebProject/2024/8/31/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SpringWebProject/2024/8/31/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.m2e.core/archetypesInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7433808202485988577.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wildwebdeveloper.xml/system-catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/src/main/java/com/jitu/SpringWebProject/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/src/main/java/com/jitu/SpringWebProject/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/target/classes/com/jitu/SpringWebProject/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/target/classes/com/jitu/SpringWebProject/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/1 CratingASpringMvcProject1/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/src/main/java/com/jitu/SpringWebProject/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/src/main/java/com/jitu/SpringWebProject/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/target/classes/com/jitu/SpringWebProject/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/target/classes/com/jitu/SpringWebProject/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/2 RunningTomcatInEcllipse/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/src/main/java/com/jitu/SpringWebProject/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/src/main/java/com/jitu/SpringWebProject/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/src/main/webapp/WEB-INF/jitu-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/target/classes/com/jitu/SpringWebProject/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/target/classes/com/jitu/SpringWebProject/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 DispatcherServlett/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/3 jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/src/main/java/com/jitu/SpringWebProject/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/src/main/java/com/jitu/SpringWebProject/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/target/classes/com/jitu/SpringWebProject/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/target/classes/com/jitu/SpringWebProject/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/4 ConguringTheDispatcherServlet/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/src/main/java/com/jitu/SpringWebProject/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/src/main/java/com/jitu/SpringWebProject/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/src/main/webapp/WEB-INF/jitu-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/src/main/webapp/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/src/main/webapp/views/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/target/classes/com/jitu/SpringWebProject/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/target/classes/com/jitu/SpringWebProject/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5 Spring  Boot Web/3 Spring Mvc/5 InternalViewResourceResolverr/target/m2e-wtp/web-resources/META-INF/maven/com.jitu/SpringWebProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringWebNotes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spring6_course" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lHdlZT0jwR6FmJS1yyZxokwV23" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SpringRestApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gudel/OneDrive/Documents/TeluskoJava/7 SpringDataJPA/SpringDataRest/2 RunningTheProject"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gudel\Downloads\8 SearchByKeyword\src\main\java\com\jitu\SpringRest" />
+      <recent name="C:\Users\gudel\Downloads\SpringRest\SpringRest\src\main\java\com\jitu\SpringRest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringRestApplication">
+    <configuration name="SpringRestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jitu.SpringRest.SpringRestApplication" />
+      <module name="SpringRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jitu.SpringRest.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SpringRest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringRest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringRestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44ee622f-43ab-4700-bb03-af34275d6bbf" name="Changes" comment="" />
+      <created>1724841087186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724841087186</updated>
+    </task>
+    <servers />
+  </component>
+</project>
