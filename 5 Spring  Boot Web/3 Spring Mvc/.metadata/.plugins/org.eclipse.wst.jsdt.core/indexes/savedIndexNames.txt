@@ -1,1 +1,0 @@
-INDEX VERSION 1.4+C:\Users\gudel\OneDrive\Documents\3 Spring Mvc\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
