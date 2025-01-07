@@ -1,49 +1,10 @@
 ### Maven ###
-HELP.md
-target/
-# !.mvn/wrapper/maven-wrapper.jar
-# !**/src/main/**/target/
-# !**/src/test/**/target/
+
 
 ### Gradle ###
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-.gradle/
-!gradle/wrapper/gradle-wrapper.jar
 
 ### Spring Boot ###
 application.properties
 application.yml
 bootstrap.properties
 bootstrap.yml
-
-### IDEs ###
-# STS (Spring Tool Suite)
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-# IntelliJ IDEA
-.idea/
-*.iws
-*.iml
-*.ipr
-
-# NetBeans
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-.nb-gradle/
-
-# VS Code
-.vscode/
-
-### Logs ###
-*.log
-logs/
