@@ -1,12 +1,20 @@
+<<<<<<< HEAD
 version: "3.7"
+=======
+#version: "3.7"/
+>>>>>>> 303c66c0315d6e969c8d9617cb9a4caf7bfa11c5
 
 services:
   app:
     build: .
     ports:
+<<<<<<< HEAD
       - "9000:9000"  # Map port 9000 of the host to port 9000 of the container
     environment:
       - SPRING_PROFILES_ACTIVE=default
+=======
+      - "8080:8080"
+>>>>>>> 303c66c0315d6e969c8d9617cb9a4caf7bfa11c5
     networks:
       - student-network
     depends_on:
@@ -19,7 +27,11 @@ services:
       POSTGRES_PASSWORD: 1234
       POSTGRES_DB: telusko
     ports:
+<<<<<<< HEAD
       - "5433:5432"  # Map host port 5433 to container port 5432
+=======
+      - "5433:5432"
+>>>>>>> 303c66c0315d6e969c8d9617cb9a4caf7bfa11c5
     networks:
       - student-network
     volumes:
@@ -30,4 +42,8 @@ networks:
     driver: bridge
 
 volumes:
+<<<<<<< HEAD
   postgres-s-data:
+=======
+  postgres-s-data
+>>>>>>> 303c66c0315d6e969c8d9617cb9a4caf7bfa11c5
