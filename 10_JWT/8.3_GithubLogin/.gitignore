@@ -1,10 +1,5 @@
-### Maven ###
 
-
-### Gradle ###
 
 ### Spring Boot ###
 application.properties
-application.yml
-bootstrap.properties
-bootstrap.yml
+
