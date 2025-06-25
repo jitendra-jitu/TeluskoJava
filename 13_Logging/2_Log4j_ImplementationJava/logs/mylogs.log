@@ -1,0 +1,4 @@
+2025-04-27 19:08:47,149 - com.jitu.Log4J - [process] - (INFO) - This is an INFO level message. - 
+2025-04-27 19:08:47,153 - com.jitu.Log4J - [process] - (WARN) - This is a WARN level message. - 
+2025-04-27 19:08:47,153 - com.jitu.Log4J - [process] - (ERROR) - This is an ERROR level message. - 
+2025-04-27 19:08:47,153 - com.jitu.Log4J - [process] - (FATAL) - This is a FATAL level message. - 
